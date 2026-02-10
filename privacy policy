@@ -1,0 +1,39 @@
+Lumina Privacy Policy
+Last updated: February 2026
+
+Summary: Lumina is an educational calculator tool. We do NOT collect, store, or transmit any personal data.
+1. What is Lumina?
+Lumina is a free browser extension that provides an educational position size calculator and economic calendar overlay for TradingView. It is designed for learning purposes only.
+
+2. Data Collection
+We do NOT collect any data. Specifically:
+
+No personal information is collected
+No browsing history is tracked
+No financial data is stored
+No cookies are used for tracking
+No data is sent to external servers (except Investing.com for calendar data)
+3. Local Storage
+The extension uses your browser's local storage only to save:
+
+Your theme preference (light/dark)
+Cached calendar data for faster loading
+This data stays on your device and is never transmitted.
+
+4. Third-Party Services
+The extension fetches public economic calendar data from Investing.com. This is read-only data and no personal information is shared with this service.
+
+5. Permissions
+The extension requires:
+
+TradingView.com access: To display the calculator overlay on TradingView charts
+Storage: To save your local preferences
+6. Educational Disclaimer
+This extension is for educational purposes only. It does not:
+
+Execute trades
+Connect to any brokerage
+Provide financial advice
+Handle real money
+7. Contact
+For questions or concerns about this privacy policy, please open an issue on our GitHub repository or contact us via the extension store listing.
